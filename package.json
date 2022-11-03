@@ -1,0 +1,20 @@
+{
+    "name": "ismac48address2",
+    "version": "1.0.0",
+    "description": "A media access control address (MAC address) is a unique identifier assigned to network interfaces for communications on the physical network segment.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/isMAC48Address2.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/isMAC48Address2/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/isMAC48Address2#readme"
+}
